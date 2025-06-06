@@ -1,3 +1,7 @@
+#Eduardo Ulisses Pereira da Silva RM:566339
+#Eduardo Duran Del Ciel RM:562017
+#Henrique Guedes Silvestre RM:562474
+
 # Importa bibliotecas necessárias
 import random
 import time
