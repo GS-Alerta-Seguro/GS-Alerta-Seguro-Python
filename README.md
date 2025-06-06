@@ -1,0 +1,1 @@
+# GS-Alerta-Seguro-Python
