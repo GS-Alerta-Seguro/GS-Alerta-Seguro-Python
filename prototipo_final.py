@@ -439,7 +439,7 @@ def menu_principal():
     exibir_cabecalho()
     print("MENU PRINCIPAL")
     print("=" * 40)
-    print("1. Monitoramente de enchentes")
+    print("1. Monitoramento de enchentes")
     print("2. Historico de alertas")
     print("3. Cadastrar Usuário")
     print("4. Lista de usuários")
